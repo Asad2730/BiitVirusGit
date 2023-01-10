@@ -1,0 +1,14 @@
+D:\BiitVirus\virus\virus\bin\Debug\virus.exe.config
+D:\BiitVirus\virus\virus\bin\Debug\virus.exe
+D:\BiitVirus\virus\virus\bin\Debug\virus.pdb
+D:\BiitVirus\virus\virus\obj\Debug\virus.csprojAssemblyReference.cache
+D:\BiitVirus\virus\virus\obj\Debug\virus.csproj.CoreCompileInputs.cache
+D:\BiitVirus\virus\virus\obj\Debug\virus.exe
+D:\BiitVirus\virus\virus\obj\Debug\virus.pdb
+D:\virus\virus\bin\Debug\virus.exe.config
+D:\virus\virus\bin\Debug\virus.exe
+D:\virus\virus\bin\Debug\virus.pdb
+D:\virus\virus\obj\Debug\virus.csprojAssemblyReference.cache
+D:\virus\virus\obj\Debug\virus.csproj.CoreCompileInputs.cache
+D:\virus\virus\obj\Debug\virus.exe
+D:\virus\virus\obj\Debug\virus.pdb
