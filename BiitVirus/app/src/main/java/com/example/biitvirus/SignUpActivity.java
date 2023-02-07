@@ -73,11 +73,11 @@ public class SignUpActivity extends AppCompatActivity {
                         startActivity(intent);
                     }
                 }, new Response.ErrorListener() {
-                    @Override
-                    public void onErrorResponse(VolleyError error) {
-                        Toast.makeText(SignUpActivity.this, "Error:"+error.getMessage(), Toast.LENGTH_SHORT).show();
-                    }
-                });
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Toast.makeText(SignUpActivity.this, "Error:"+error.getMessage(), Toast.LENGTH_SHORT).show();
+            }
+        });
 
         queue.add(request);
 
